@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SeanC2003
+- 👋 Hi, I’m @SeanC2003 and I am from Zimbabwe
 - 👀 I’m interested in coding and football
 - 🌱 I’m currently learning computer science at AEHS
 - 💞️ I’m looking to collaborate on algorithms and complexity
